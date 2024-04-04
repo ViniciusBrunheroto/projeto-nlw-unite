@@ -1,6 +1,6 @@
 # NLW UNITE 
 
-![preview](./.github/nlw-unite-react.png)
+![preview](./.github/nlw-unite-react.PNG)
 
 > Trilha React
 
